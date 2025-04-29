@@ -1,8 +1,7 @@
 streamlit
 pdfplumber
 nltk
-pandas
-numpy
 scikit-learn
-sentence-transformers==2.2.2
-torch==1.13.1
+sentence-transformers
+numpy
+pandas
